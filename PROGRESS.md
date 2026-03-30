@@ -4,8 +4,9 @@
 
 ### Week 1
 - [x] Day 01 — Set up Codespaces, first CLI commit, first push ✅
+- [x] Day 02 — Git branching, merge, rename, delete branch ✅
 
 ### Week 2
-- [ ] Day 02 — Git branching, merge, log
-- [ ] Day 03 —
-...
+- [ ] Day 03 — git diff, git stash, git log deep dive
+- [ ] Day 04 — Merge conflicts (create one and fix it)
+- [ ] Day 05 — SSH key setup + .gitignore
