@@ -1,0 +1,3 @@
+Exchange: NSE
+Timeout: 30
+Retry: 3
